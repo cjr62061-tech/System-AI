@@ -21,3 +21,6 @@ buildozer
 # --- EXTRA KAAM KI CHEEZE ---
 Pillow
 beautifulsoup4
+
+SpeechRecognition
+gTTS
