@@ -1,0 +1,23 @@
+# --- TERA AI BANANE KE LIYE ---
+openai
+langchain
+transformers
+torch
+numpy
+pandas
+scikit-learn
+python-dotenv
+
+# --- WEBSITE (Flask) BANANE KE LIYE ---
+Flask
+requests
+Flask-Cors
+
+# --- APK (Android App) BANANE KE LIYE ---
+kivy
+kivymd
+buildozer
+
+# --- EXTRA KAAM KI CHEEZE ---
+Pillow
+beautifulsoup4
