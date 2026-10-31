@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mera Super AI
+!main.py
+!ai_brain.py
+!buildozer.spec
